@@ -19,7 +19,7 @@ if "driver" not in st.session_state:
     st.session_state.driver = None
 
 # Abrir Amazon
-if st.button("🌐 Abrir Amazon"):
+if st.button(" Abrir Amazon"):
 
     try:
         if st.session_state.driver is not None:
