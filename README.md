@@ -93,5 +93,6 @@ Este proyecto representa una aplicación práctica de conocimientos de programac
 ## Autor
 
 Nataly Alexandra Alatorre Moreno
+Camila Sofia Barajas Sandoval
 
 Proyecto académico de programación en Python y análisis de datos.
